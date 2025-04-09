@@ -1,0 +1,31 @@
+
+
+java:S11926"HDefine a constant instead of duplicating this literal "Server " 5 times.(Ûõø‰ûÿÿÿÿ8Ïº¤êØ2J$58cb6065-7217-4fa5-84f0-bd4bb8c220c4
+‹
+java:S1192{"HDefine a constant instead of duplicating this literal "KVStore" 3 times.(ü¥°Ş8Ïº¤êØ2J$c1427f20-6396-4332-ab97-1908e716cfc4
+
+java:S1192W"GDefine a constant instead of duplicating this literal "DELETE" 4 times.(‡–¾ûÿÿÿÿ8Ïº¤êØ2J$7b972416-b2fe-4596-a273-0b6c55a23991
+£
+java:S1192…"ZDefine a constant instead of duplicating this literal "Error contacting replica " 3 times.(Óüşşÿÿÿÿ8Ïº¤êØ2J$2e63f5d6-721d-45d3-8e96-d97dfd910896
+n
+java:S2160"+Override the "equals" method in this class.(€ë–Š8×º¤êØ2J$3ab41f9f-ec8b-4314-843c-6660b667eb21
+ƒ
+java:S1854@"@Remove this useless assignment to local variable "allCommitted".(ï¼Ó–8Şº¤êØ2J$3697fe2a-d2d0-4c65-816c-7d5ce4eba81e
+r	java:S1066"+Replace this use of System.out by a logger.(Ûõø‰ûÿÿÿÿ8ßº¤êØ2J$6f9d8779-1354-49f8-ad85-a8520d402ce9
+t
+java:S1481@"1Remove this unused "allCommitted" local variable.(ï¼Ó–8ßº¤êØ2J$0c5c20bf-7baf-4800-bd97-c9bed3d42e73
+r	java:S106U"+Replace this use of System.out by a logger.(ùİÏÚşÿÿÿÿ8àº¤êØ2J$821833b3-44e6-4d67-b148-b5ac04dafa1d
+s	java:S106…"+Replace this use of System.err by a logger.(Óüşşÿÿÿÿ8äº¤êØ2J$33008fa1-4344-4102-9b8d-64dadddd357a
+¢
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8äº¤êØ2J$fdf16f7c-a558-42d9-8a99-c921947192e6
+‚	java:S899":Do something with the "boolean" value returned by "await".(ÄàÉ½ıÿÿÿÿ8äº¤êØ2J$da10f3fb-7a47-4ac2-9e90-dfd4f93e55c1
+s	java:S106"+Replace this use of System.err by a logger.(¦êæûÿÿÿÿ8äº¤êØ2J$4f78bca6-1f55-4229-ad63-9cdccf7b6184
+s	java:S106ª"+Replace this use of System.err by a logger.(Óüşşÿÿÿÿ8æº¤êØ2J$0928d4ab-6791-4cb5-8f33-24ca7d363eb3
+¢
+java:S2142´"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8æº¤êØ2J$cd65c414-2ecc-43c5-8e71-137a3e0ad0ba
+‚	java:S899³":Do something with the "boolean" value returned by "await".(ÄàÉ½ıÿÿÿÿ8æº¤êØ2J$f92df0a0-f30b-40db-82da-8750a1f6da05
+n	java:S106µ"+Replace this use of System.err by a logger.(Éİ¯ó8æº¤êØ2J$3fd8e910-a2dd-467d-8037-d055d245a837
+s	java:S106È"+Replace this use of System.err by a logger.(Óüşşÿÿÿÿ8çº¤êØ2J$17665679-0b10-4562-90af-3d3434312bed
+n	java:S106Ó"+Replace this use of System.out by a logger.(Ğ·¢Ò8èº¤êØ2J$0ce6579f-40eb-448b-bbbd-acfba907d76b
+n	java:S106ê"+Replace this use of System.out by a logger.(•ö¥•8èº¤êØ2J$4732d6ce-b33e-4f5e-b897-67409c4f9213
+s	java:S106†"+Replace this use of System.out by a logger.(„ˆíêÿÿÿÿÿ8éº¤êØ2J$e9289c69-dc01-4d3b-bc26-70cee108675c

@@ -1,0 +1,16 @@
+src/test/ConcurrentTest.java
+src/test/PaxosFaultToleranceTest.java
+src/server/PaxosKVStore.java
+src/server/ReplicatedKVStore.java
+src/server/RMIServer.java
+src/server/ReplicatedRMIServer.java
+src/server/ReplicaInfo.java
+src/server/PaxosServer.java
+src/common/Protocol.java
+src/common/Logger.java
+src/common/PaxosRMI.java
+src/common/PaxosResponse.java
+src/common/KVStoreRMI.java
+src/kvstore/KVStore.java
+src/client/ReplicatedRMIClient.java
+src/client/RMIClient.java

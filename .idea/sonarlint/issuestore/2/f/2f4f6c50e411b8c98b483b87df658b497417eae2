@@ -1,0 +1,13 @@
+
+{
+java:S21420"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8‚×¢„Ù2
+{
+java:S2142A"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8†×¢„Ù2
+{
+java:S2142R"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8Š×¢„Ù2
+G	java:S106w"+Replace this use of System.out by a logger.(»«Ùø8”×¢„Ù2
+L	java:S106}"+Replace this use of System.out by a logger.(ÍÂÛÏşÿÿÿÿ8•×¢„Ù2
+M	java:S106„"+Replace this use of System.out by a logger.(³ûà®ùÿÿÿÿ8–×¢„Ù2
+H	java:S106Š"+Replace this use of System.out by a logger.(¼ÃÙã8˜×¢„Ù2
+@
+java:S1128"Remove this duplicated import.(æ÷–£ùÿÿÿÿ8×¢„Ù2

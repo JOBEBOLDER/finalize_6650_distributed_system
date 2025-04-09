@@ -1,0 +1,21 @@
+
+u
+java:S1192%"SDefine a constant instead of duplicating this literal "Client exception: " 3 times.(‡ê˜Ëøÿÿÿÿ8Á±°êØ2
+L	java:S106%"+Replace this use of System.err by a logger.(‡ê˜Ëøÿÿÿÿ8ò²°êØ2
+L	java:S1065"+Replace this use of System.err by a logger.(‡ê˜Ëøÿÿÿÿ8ó²°êØ2
+L	java:S106E"+Replace this use of System.err by a logger.(‡ê˜Ëøÿÿÿÿ8ô²°êØ2
+F	java:S106X"+Replace this use of System.out by a logger.(ø©ö}8õ²°êØ2
+L	java:S106["+Replace this use of System.err by a logger.(Èœ¡êşÿÿÿÿ8õ²°êØ2
+G	java:S106_"+Replace this use of System.err by a logger.(âÓ¤…8õ²°êØ2
+G	java:S106i"+Replace this use of System.out by a logger.(££²8ö²°êØ2
+G	java:S106o"+Replace this use of System.out by a logger.(ëƒ¹¢8ö²°êØ2
+L	java:S106r"+Replace this use of System.out by a logger.(Š­°×ÿÿÿÿÿ8ö²°êØ2
+G	java:S106w"+Replace this use of System.out by a logger.(ÕíÑ÷8ö²°êØ2
+L	java:S106z"+Replace this use of System.out by a logger.(şêüÖùÿÿÿÿ8÷²°êØ2
+H	java:S106€"+Replace this use of System.out by a logger.(ëƒ¹¢8÷²°êØ2
+G	java:S106ƒ"+Replace this use of System.out by a logger.(É”ˆ 8÷²°êØ2
+M	java:S106ˆ"+Replace this use of System.out by a logger.(”ğÍÉùÿÿÿÿ8÷²°êØ2
+H	java:S106‹"+Replace this use of System.out by a logger.(¾‡Âå8÷²°êØ2
+H	java:S106"+Replace this use of System.out by a logger.(ÕíÑ÷8÷²°êØ2
+M	java:S106“"+Replace this use of System.out by a logger.(¬ŠğÃûÿÿÿÿ8ø²°êØ2
+H	java:S106˜"+Replace this use of System.out by a logger.(ÕíÑ÷8ø²°êØ2
